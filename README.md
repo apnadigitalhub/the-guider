@@ -15,7 +15,7 @@ This repository is made to save time ⏳, reduce confusion 🤯, and make studyi
 ## 🧮 MATHEMATICS
 
 - **Java™ 2: The Complete Reference** — Book by Herbert Schildt — [Link](https://pixeldrain.com/l/fJSCbKiU)  
-- **Programming in Java** - Book by Sachin Malhotra and Saurabh Choudhary — Link — [Link](https://pixeldrain.com/l/BxfjPJoo)
+- **Programming in Java** - Book by Sachin Malhotra and Saurabh Choudhary — [Link](https://pixeldrain.com/l/BxfjPJoo)
 
 ---
 
