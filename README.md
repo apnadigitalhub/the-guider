@@ -51,6 +51,7 @@ Found a broken link? Wrong edition? Want to suggest a book?
 
 Let’s keep this guide clean and helpful for everyone 💙
 <br>
-If links fails to opening or not loading, Try changing your DNS Server to Cloudflare. Sometimes it works if DNS changes to Clodflare😊.
-<br/>Cloudflare DNS URL: `1.1.1.2`.
+\
+If links fails to opening or not loading, Try changing your DNS Server to Cloudflare. Sometimes it works if DNS set to Clodflare😊.
+<br/>Cloudflare DNS URL:  `1.1.1.2`.
 <br/>If your Android Chrome user , Follow this:  `Settings` > `Privacy and Security` > `Use secure DNS` > `Choose another provider` > Set to `Cloudflare(1.1.1.1)`.
